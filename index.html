@@ -12,11 +12,17 @@
   window.$docsify = {
     loadSidebar: 'ch.md',
     subMaxLevel: 2,
-    maxAge: 0
+    maxAge: 0,
+    pagination: {
+    previousText: '上一章',
+    nextText: '下一章',
+    crossChapter: true,
+  },
   }
     
 </script>
 <script src="search.js"></script>
+<script src="pagination.min.js"></script>
  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
