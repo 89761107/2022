@@ -7,9 +7,12 @@
 
 接下来就是我使⽤的⽅法：“费曼学习法”
 > 说到费曼学习法，就不得不介绍理查德·费曼这位天才，他在13岁就学会了微积分；24岁加⼊⻢哈顿计划进⾏原⼦弹研究；后因其在量⼦电动⼒学⽅⾯的⼯作，获得了1965年诺⻉尔物理学奖。
+
 <img style="box-sizing:border-box;width:100%; display:block;box-shadow:0px 0px 10px #333; -moz-box-shadow:0px 0px 10px #333;-ms-box-shadow:0px 0px 10px #333;-o-box-shadow:0px 0px 10px #333;-webkit-box-shadow:0px 0px 10px #333;" src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0818%2F44532488p00qy0v1o004pc000hb00ckm.png&thumbnail=750x2147483647&quality=85&type=jpg?imageView&thumbnail=750x0&quality=85&type=png&interlace=1" width="" height="" border="0" mapurl="" title="" alt="404">
+
 费曼最厉害的⼀点就是他的⾃学能⼒，他的学习效率远⾼于其他⼈，所以才能做到很多我们做不到的事情。
 你羡慕这样的学习效率吗？其实掌握起来很简单。
+
 ⾸先学习有两类，⼀类是被动学习，⼀类是主动学习；在学校的听课⼤多都是被动学习，对知识只有10-15%的吸收效率（知识吸收率，即对知识吸收掌握的效率），但教给别⼈，不断的输出⾃⼰的观点，可以让你的知识吸收率达到惊⼈的95%以上。
 ⽽费曼学习法的核⼼就是“输⼊”和“输出”。
 那什么是输⼊呢？输⼊就是在学校的听课或者做题的时候，你所得到的信息；那输出是什么呢？输出就是你⽤⾃⼰的⽅式，向外界发送你所获得的信息。
@@ -20,18 +23,24 @@
 识，会让他⾃⼰有更深⼊的理解。当他发现⾃⼰讲不出来某⼀道题的时候，他就会回顾所对应的知识点，达到消除薄弱的作⽤。
 这也是为什么我们当时会了，考试却还是做不出来，但学霸总能做出来。因为学霸掌握的是知识点，⽽你只掌握了这⼀道题的⽅法。
 让我们来总结⼀下费曼学习法的步骤：
+
 <section style="text-align: center;"><section style="text-align: center;font-size: 40px;color:#bbbdc0;opacity: 0.3;font-weight: bold;margin-bottom: -50px;margin-left:-6px;letter-spacing:3px;">0<span class="autonum">2</span></section><section style="display: inline-block;"><section style="display: flex;justify-content: center;align-items: center;"><section style="width: 1.3em;height: 1.3em;border-radius:100%;background-image: -webkit-linear-gradient(top, #3de0ad,#d0f2e9);"></section><section style="transform:rotate(0deg);text-align: center;padding: 4px 0.8em;letter-spacing: 1.5px;">持续输出</section><section style="width: 1.5em;height: 1.5em;border-radius:100%;background-image: -webkit-linear-gradient(left, #3ed4e9,#89edf6);"></section><section style="width: 1em;height: 1em;border-radius:100%;background:rgba(91,168,238,0.6);margin-left:-8px;margin-top: 10px;"></section></section></section></section>	
+
 ### 第⼀步：持续输出
 输出你所学到的东西，不管你⽤的是复杂的语⾔还是简单的⼤⽩话，接触到⼀个概念⼀定要先输出。
 > ⽐如⽼师讲到了“⻥与熊掌不可兼得”，你需要的不是简单的翻译或者背诵；要理解意思，⽤⾃⼰转化的语⾔讲出来：“⼈不能太贪⼼、有舍才有得、选择也是⼀⻔学问”，这样我的理解就⽐死记硬背的点性思维强了很多。
+
 ### 第二步：重复回顾
 在你输出的过程中，你可能会忘词、会卡壳、会混淆。但是别灰⼼，这些使你混淆的地⽅，才正是你可以去提升的地⽅。
 > 那有⼈可能会觉得我复习就好了，⼲嘛还要给别⼈讲？
 > 其实在我们平时的复习中，很多⼈是进⾏全部的复习的，⽽⼀旦我们使⽤了费曼学习法，我们会在输出的过程中，发现⾃⼰最需要查漏补缺的，⼤⼤提⽰复习效率，⽤⼀倍的时间复习原先⼏倍的东西。
+
 ### 第三步：⼆次输出
 费曼先⽣在⼤学教书的时候，曾经说过：“如果我⽤简单的话，不能让⼤⼀新⽣理解这个知识，那说明我对这个知识点也是⼀知半解”。在经过反复的打磨、咀嚼、吸收之后，你的学习能⼒势必会再上⼀层楼。
+
 ## PART2：为什么要⽤费曼学习法？
 如果在⾼中的时候就能够掌握费曼学习法，绝对会给你带来意想不到的好处：
+
 ### 优点⼀：直接⾯对弱点，针对性更强
 
 你是不是也不喜欢做难题？是不是更喜欢做简单题，对答案全部红对勾的感觉。
@@ -41,6 +50,7 @@
 但是在使⽤费曼学习法的过程之中，我们需要时刻保持输出，但是我们肯定会遇到较难的知识点，肯定会遇到“卡壳“的地⽅。
 
 所以，费曼学习法能深度挖掘你薄弱的地⽅，并有更强的针对性，让你知道⾃⼰到底什么知识点不熟悉。
+
 ### 优点⼆：提分最快，掌握度更好
 ⾼考中，80%的题都是简单题+中等题，这类题⽆⾮就是考察学⽣对于基础知识的掌握。
 
@@ -51,6 +61,7 @@
 ## PART3：怎么在⾼中学习中应⽤费曼法？
 
 99%的⽂章都没有如何实际操作的⽅法，这也是我总结⾃⼰的经历和其他学霸的⽅法，得出可⾏性100%的⽅法，使⽤⼀个⽉就会有显著的成果。
+
 ### ⽅法⼀：重点总结本
 强调！强调！！总结本不是改错本，我们不需要像改错本⼀样，把所有的错的都写出来，这⾥的总结本，⼀个⼿掌⼤⼩最好，秉持着“打⼩抄”的思维去进⾏总结。
 
