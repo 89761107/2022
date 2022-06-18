@@ -22,3 +22,11 @@
 2. 软件更新时，客户端不需要更新
 3. 软件可以跨平台，只要系统中有浏览器，就可以使用
 4. B/S架构的软件，客户端和服务器之间通信采用的是通用的HTTP协议，相对来说不安全
+
+
+```
+// This is the Java code sample with highlight. public static void main(String[] args) {
+ int a = 0; int b = 0; int c = cal(a, b);
+  System.out.println(c); 
+ }
+```
