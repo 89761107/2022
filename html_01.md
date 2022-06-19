@@ -1,5 +1,5 @@
 
-> [!NOTE|style:flat|iconVisibility:hidden]
+> [!NOTE|style:flat|label:hidden|iconVisibility:hidden]
 > 软件的架构分以下两种
 ## C/S，客户端/服务器
 1. 一般我们使用的软件都是C/S架构
