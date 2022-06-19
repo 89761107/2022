@@ -23,18 +23,13 @@
 3. 软件可以跨平台，只要系统中有浏览器，就可以使用
 4. B/S架构的软件，客户端和服务器之间通信采用的是通用的HTTP协议，相对来说不安全
 
-
-```
-// This is the Java code sample with highlight. public static void main(String[] args) {
- int a = 0; int b = 0; int c = cal(a, b);
-  System.out.println(c); 
- }
-```
-
-> [!NOTE]
-> An alert of type 'note' using global style 'callout'.
-
-> [!TIP|style:flat|label:My own heading|iconVisibility:hidden]
-> An alert of type 'tip' using alert specific style 'flat' which overrides global style 'callout'.
-> In addition, this alert uses an own heading and hides specific icon.
-
+> [!NOTE|style:flat|label:学习内容介绍|iconVisibility:hidden]
+> 根据w3c标准，一个网页主要由三个部分组成：
+> 结构、表现、行为
+## 什么是结构、表现、行为
+### 结构
+HTML用于描述页面的结构
+### 表现
+CSS用于控制页面中元素的样式
+### 行为
+JavaScript用于响应用户操作
