@@ -1,5 +1,6 @@
-软件的架构分两种
 
+> [!NOTE|style:flat|iconVisibility:hidden]
+> 软件的架构分以下两种
 ## C/S，客户端/服务器
 1. 一般我们使用的软件都是C/S架构
 2. 比如系统的中的软件QQ、360、office、XMind
@@ -27,10 +28,9 @@
 > [!NOTE|style:flat|label:学习内容介绍|iconVisibility:hidden]
 > 根据w3c标准，一个网页主要由三个部分组成：
 > 结构、表现、行为
-## 什么是结构、表现、行为
-### 结构
+## 结构
 HTML用于描述页面的结构
-### 表现
+## 表现
 CSS用于控制页面中元素的样式
-### 行为
+## 行为
 JavaScript用于响应用户操作
