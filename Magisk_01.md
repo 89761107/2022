@@ -8,10 +8,9 @@
 1、无需第三方**Recovery**  
 2、不影响系统升级（完整包升级）
 
-### 环境
+## 环境
 
 1、BootLoader已解锁（**必须解锁**，小米手机参考：[magiskcn.com/unlock-mi](https://magiskcn.com/unlock-mi)）  
-_如果你的手机不能解锁BL，推荐 **[光速虚拟机](https://magiskcn.com/gsxnj)**（不用解锁BL也可以刷面具）_
 
 2、小米10Pro12+512
 
@@ -19,13 +18,29 @@ _如果你的手机不能解锁BL，推荐 **[光速虚拟机](https://magiskcn.
 
 4、Windows电脑一台
 
-### 步骤
+## 下载
+
+稳定版（Stable）（ [更新日志](https://topjohnwu.github.io/Magisk/releases/25100.md) ）
+
+[Magisk-25.1.apk](https://raw.kgithub.com/topjohnwu/magisk-files/25.1/app-release.apk)
+
+金丝雀（Canary）
+
+[Magisk-Canary-9183a0a6.zpk](https://raw.kgithub.com/topjohnwu/magisk-files/1cf879f01b3cde81d73bd9e2488d77082c430a34/app-release.apk)
+***
+卡刷包：把名字改成 magisk.zip
+
+卸载包：把名字改成 uninstall.zip
+
+用于第三方recovery卡刷面具
+
+## 步骤
 
 1、系统是纯净官方系统（如果不是，建议刷一次完整包）
 
 2、手机下载安装：[MT管理器](https://www.coolapk.com/apk/bin.mt.plus)
 
-3、手机下载安装：[Magisk](https://magiskcn.com/magisk-download)
+3、手机下载安装：见上一步
 
 4、下载系统完整包：[magiskcn.com/get-miui](https://magiskcn.com/get-miui)（其他品牌请自行到官网下载）
 
@@ -78,7 +93,7 @@ ___
 
 ___
 
-#### 温馨提示
+## 温馨提示
 
 如果刷模块不兼容或者其他骚操作导致卡米的话，可以把我们前面提取的boot.img通过fastboot刷回去，恢复原系统，一般都能正常开机！  
 boot.img保留一份在电脑，避免出问题了可以自救下！还原boot指令
