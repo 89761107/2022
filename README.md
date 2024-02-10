@@ -22,7 +22,7 @@
 > In addition, this alert uses an own heading and hides specific icon.
 
 
-- [x] 吃饭
+- [x] 大年初二
 - [ ] 不集了
 
 name | Age | Gender
