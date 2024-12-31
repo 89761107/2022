@@ -26,7 +26,7 @@
 
 <section style="text-align: center;"><section style="text-align: center;font-size: 40px;color:#bbbdc0;opacity: 0.3;font-weight: bold;margin-bottom: -50px;margin-left:-6px;letter-spacing:3px;">0<span class="autonum">2</span></section><section style="display: inline-block;"><section style="display: flex;justify-content: center;align-items: center;"><section style="width: 1.3em;height: 1.3em;border-radius:100%;background-image: -webkit-linear-gradient(top, #3de0ad,#d0f2e9);"></section><section style="transform:rotate(0deg);text-align: center;padding: 4px 0.8em;letter-spacing: 1.5px;">持续输出</section><section style="width: 1.5em;height: 1.5em;border-radius:100%;background-image: -webkit-linear-gradient(left, #3ed4e9,#89edf6);"></section><section style="width: 1em;height: 1em;border-radius:100%;background:rgba(91,168,238,0.6);margin-left:-8px;margin-top: 10px;"></section></section></section></section>	
 
-### 第⼀步：持续输出
+### 第一步：持续输出
 输出你所学到的东西，不管你⽤的是复杂的语⾔还是简单的⼤⽩话，接触到⼀个概念⼀定要先输出。
 > ⽐如⽼师讲到了“⻥与熊掌不可兼得”，你需要的不是简单的翻译或者背诵；要理解意思，⽤⾃⼰转化的语⾔讲出来：“⼈不能太贪⼼、有舍才有得、选择也是⼀⻔学问”，这样我的理解就⽐死记硬背的点性思维强了很多。
 
